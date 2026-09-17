@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zijun Liao 👋
 
-<!--
-**HackwoodL/HackwoodL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science student at **Université Paris-Saclay**, based in Paris, France.
 
-Here are some ideas to get you started:
+Previously:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Software Engineer Intern @ **Microsoft, Cloud + AI**
+* Machine Learning Engineer Intern @ **Xiaomi, Language Intelligence**
+
+Interested in **LLMs, machine learning, AI systems, and software engineering**.
+
+### Tech
+
+`Python` · `C#` · `C/C++` · `TypeScript` · `PyTorch` · `.NET` · `Docker` · `Linux` · `Git`
+
+### Areas of Interest
+
+LLM Fine-Tuning · Reinforcement Learning · RAG · AI Agents · Backend & Developer Tools
