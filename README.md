@@ -1,18 +1,8 @@
-# Hi, I'm Zijun Liao 👋
+# Hi, I'm Zijun 👋
 
-MSc Computer Science student at **Université Paris-Saclay**, based in Paris, France.
+MSc Computer Science @ **Université Paris-Saclay**
+Previously @ **Microsoft** and **Xiaomi**
 
-Previously:
+Interested in **LLMs, machine learning, and software engineering**.
 
-* Software Engineer Intern @ **Microsoft, Cloud + AI**
-* Machine Learning Engineer Intern @ **Xiaomi, Language Intelligence**
-
-Interested in **LLMs, machine learning, AI systems, and software engineering**.
-
-### Tech
-
-`Python` · `C#` · `C/C++` · `TypeScript` · `PyTorch` · `.NET` · `Docker` · `Linux` · `Git`
-
-### Areas of Interest
-
-LLM Fine-Tuning · Reinforcement Learning · RAG · AI Agents · Backend & Developer Tools
+`Python` · `C#` · `C/C++` · `TypeScript` · `PyTorch` · `.NET` · `Docker` · `Linux`
